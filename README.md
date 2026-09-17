@@ -54,11 +54,6 @@ More projects in my repositories → [github.com/Ivan-pes](https://github.com/Iv
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Español-B1-red?style=flat-square)
 
-## 📊 GitHub Stats
-
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-pes&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-pes&layout=compact&hide_border=true)
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C%D0%BE%D0%B2-1964a7368)
